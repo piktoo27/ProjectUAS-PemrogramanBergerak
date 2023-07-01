@@ -1,11 +1,10 @@
 <resources>
-    <string name="app_name">UAS API Al-Quran</string>
-    <string name="quran">Al-Quran Al-Karim</string>
+
     <string name="nama_surah">Al-Fatihah</string>
     <string name="jumlah_ayat">Jumlah Ayat</string>
     <string name="arti_surah">Pembukaan</string>
     <string name="arabic">Nama Arab : </string>
-    <string name="audio">Audio</string>
+    <string name="audio">Play Audio</string>
     <string name="tempat">Tempat Diturunkan :</string>
     <string name="surah">List Surah</string>
     <string name="arab">الفاتحة</string>
